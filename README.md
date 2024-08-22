@@ -1,8 +1,8 @@
 📌 ▸ 👋 Hi, I'm Tousend1000 · UTC+2 · ♂️ ᴇɴ ᴅᴇ ᴘʟ 
-
-▸ __More Infos:__
- ┠``🖥️``〢Programmer
- ┠``🤖``  〢Discord Bot Developer
- ┠``🔗``〢My Portfolio:
- ┃   〢...
- ┗``🗒️``〢 🐍 Python, Roblox Lua 🔹
+\n\n
+▸ __More Infos:__\n
+ ┠``🖥️``〢Programmer\n
+ ┠``🤖``  〢Discord Bot Developer\n
+ ┠``🔗``〢My Portfolio:\n
+ ┃   〢...\n
+ ┗``🗒️``〢 🐍 Python, Roblox Lua 🔹\n
