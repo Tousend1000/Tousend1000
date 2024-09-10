@@ -4,5 +4,5 @@
  ┠``🖥️``〢Programmer
  ┠``🤖``  〢Discord Bot Developer
  ┠``🔗``〢My Portfolio:
- ┃   〢...
+ ┃   〢https://tousend.carrd.co/
  ┗``🗒️``〢 🐍 Python, Roblox Lua 🔹
